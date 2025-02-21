@@ -30,9 +30,7 @@ This program randomly selects images from a source folder and copies them to a d
 
 2. **Install required packages** using pip:
 
-   ```
    pip install Pillow imagehash
-   ```
 
 ---
 
