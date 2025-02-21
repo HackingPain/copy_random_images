@@ -40,9 +40,7 @@ This program randomly selects images from a source folder and copies them to a d
 
 1. **Run the script:**
 
-   ```
    python your_script.py
-   ```
 
 2. **Use the GUI to:**
    - Select your source folder.
@@ -56,17 +54,13 @@ This program randomly selects images from a source folder and copies them to a d
 
 1. **Install PyInstaller:**
 
-   ```
    pip install pyinstaller
-   ```
 
 2. **Navigate to the script’s directory** in your command prompt or terminal.
 
 3. **Run PyInstaller:**
 
-   ```
    pyinstaller --onefile your_script.py
-   ```
 
 4. **Find the executable** in the generated "dist" folder.
 
